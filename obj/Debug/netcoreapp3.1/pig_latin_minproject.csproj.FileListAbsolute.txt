@@ -1,0 +1,13 @@
+C:\devbuild4\pig_latin_minproject\bin\Debug\netcoreapp3.1\pig_latin_minproject.exe
+C:\devbuild4\pig_latin_minproject\bin\Debug\netcoreapp3.1\pig_latin_minproject.deps.json
+C:\devbuild4\pig_latin_minproject\bin\Debug\netcoreapp3.1\pig_latin_minproject.runtimeconfig.json
+C:\devbuild4\pig_latin_minproject\bin\Debug\netcoreapp3.1\pig_latin_minproject.runtimeconfig.dev.json
+C:\devbuild4\pig_latin_minproject\bin\Debug\netcoreapp3.1\pig_latin_minproject.dll
+C:\devbuild4\pig_latin_minproject\bin\Debug\netcoreapp3.1\pig_latin_minproject.pdb
+C:\devbuild4\pig_latin_minproject\obj\Debug\netcoreapp3.1\pig_latin_minproject.csprojAssemblyReference.cache
+C:\devbuild4\pig_latin_minproject\obj\Debug\netcoreapp3.1\pig_latin_minproject.AssemblyInfoInputs.cache
+C:\devbuild4\pig_latin_minproject\obj\Debug\netcoreapp3.1\pig_latin_minproject.AssemblyInfo.cs
+C:\devbuild4\pig_latin_minproject\obj\Debug\netcoreapp3.1\pig_latin_minproject.csproj.CoreCompileInputs.cache
+C:\devbuild4\pig_latin_minproject\obj\Debug\netcoreapp3.1\pig_latin_minproject.dll
+C:\devbuild4\pig_latin_minproject\obj\Debug\netcoreapp3.1\pig_latin_minproject.pdb
+C:\devbuild4\pig_latin_minproject\obj\Debug\netcoreapp3.1\pig_latin_minproject.genruntimeconfig.cache

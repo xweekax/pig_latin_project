@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "pig_latin_minproject/1.0.0": {
+        "runtime": {
+          "pig_latin_minproject.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pig_latin_minproject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
